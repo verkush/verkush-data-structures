@@ -10,3 +10,4 @@ int main()
 }
 
 uint8_t first = 10, second = 30; /*Global variables*/
+
