@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <Stdlib.h>
+#include <stdlib.h>
 
 /*Define structure for a Node*/
 struct Node 
